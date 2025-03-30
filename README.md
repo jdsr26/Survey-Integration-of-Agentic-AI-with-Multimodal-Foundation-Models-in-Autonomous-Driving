@@ -4,9 +4,9 @@ A survey paper exploring the synergy between agentic AI and multimodal foundatio
 
 **Authors:**
 
-* J. Dhana Santhosh Reddy (M.Eng Robotics, UMD College Park, js5162@umd.edu) [cite: 1]
-* Chandhan Saai Katuri (M.Eng Robotics, UMD College Park, chandhan@umd.edu) [cite: 1]
-* Naga Kambhampati (M.Eng Robotics, UMD College Park, saigopal@umd.edu) [cite: 1]
+* J. Dhana Santhosh Reddy (M.Eng Robotics, UMD College Park, js5162@umd.edu) 
+* Chandhan Saai Katuri (M.Eng Robotics, UMD College Park, chandhan@umd.edu) 
+* Naga Kambhampati (M.Eng Robotics, UMD College Park, saigopal@umd.edu) 
 
 **Survey Paper - University of Maryland, College Park**
 
@@ -14,13 +14,13 @@ A survey paper exploring the synergy between agentic AI and multimodal foundatio
 
 ## Abstract
 
-This paper investigates the integration of agentic AI with multimodal foundation models to advance autonomous driving[cite: 2]. Agentic AI systems, distinguished by their proactive decision-making and adaptive reasoning, are combined with multimodal foundation models capable of processing and fusing diverse sensor inputs including vision, LiDAR, and radar to achieve comprehensive environmental understanding[cite: 3]. This synergy enhances core autonomous driving functions such as perception, prediction, and planning, enabling vehicles to navigate complex, real-world environments with minimal human intervention[cite: 4]. We highlight recent progress in multimodal data integration, discuss sophisticated decision-making frameworks, and explore strategies to ensure robustness against out-of-distribution (OOD) scenarios[cite: 5]. Additionally, we examine emerging challenges, address safety and reliability considerations, and propose directions for future research and development[cite: 6]. By unifying agentic intelligence with multimodal foundation models, this work provides a blueprint for more reliable, adaptable, and ultimately safer autonomous driving systems[cite: 7].
+This paper investigates the integration of agentic AI with multimodal foundation models to advance autonomous driving. Agentic AI systems, distinguished by their proactive decision-making and adaptive reasoning, are combined with multimodal foundation models capable of processing and fusing diverse sensor inputs including vision, LiDAR, and radar to achieve comprehensive environmental understanding. This synergy enhances core autonomous driving functions such as perception, prediction, and planning, enabling vehicles to navigate complex, real-world environments with minimal human intervention. We highlight recent progress in multimodal data integration, discuss sophisticated decision-making frameworks, and explore strategies to ensure robustness against out-of-distribution (OOD) scenarios. Additionally, we examine emerging challenges, address safety and reliability considerations, and propose directions for future research and development. By unifying agentic intelligence with multimodal foundation models, this work provides a blueprint for more reliable, adaptable, and ultimately safer autonomous driving systems.
 
 ---
 
 ## Keywords
 
-*Autonomous Driving, Agentic AI, Multimodal Foundation Models, Sensor Fusion, Deep Learning, Reinforcement Learning, Robotics, Survey Paper* *(You can add or modify these keywords)*
+*Autonomous Driving, Agentic AI, Multimodal Foundation Models, Sensor Fusion, Deep Learning, Reinforcement Learning, Robotics, Survey Paper* 
 
 ---
 
